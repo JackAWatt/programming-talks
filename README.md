@@ -301,7 +301,7 @@ ever.
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) [01:17:00] by **Stephan Lavavej** (2013)
 * [Optimizing the Emergent Structures of C++](https://www.youtube.com/watch?v=eR34r7HOU14) [01:33:02] by **Chandler Carruth** (somewhat annoyingly bad quality) (2013)
 * [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) [01:18:27] by **Edouard Alligand** (2013)
-* [The Effective C++11/14 Sampler](https://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) [01:15:45] by **Scott Meyers** (2013)
+* [The Effective C++11/14 Sampler](https://learn.microsoft.com/en-us/events/goingnative-2013/effective-cpp11-14-sampler) [01:15:45] by **Scott Meyers** (2013)
 * [Writing Quick Code in C++, Quickly](https://www.youtube.com/watch?v=ea5DiCg8HOY) [01:11:37] by **Andrei Alexandrescu** (2013)
 <br>
 
